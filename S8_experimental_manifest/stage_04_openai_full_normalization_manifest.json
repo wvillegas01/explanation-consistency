@@ -1,0 +1,11 @@
+{
+  "stage": "04_openai_full_normalization",
+  "timestamp": "2026-06-16T14:51:19+00:00",
+  "full_raw_latest_run_ids": 1000,
+  "normalized_rows": 1000,
+  "outputs": [
+    "C:\\Users\\wilop\\Dropbox\\MPDI\\2026\\Auditing Explainability-corto\\auditoria\\03_model_outputs\\normalized\\openai_multimodel\\openai_multimodel_full_normalized_outputs_v1.csv",
+    "C:\\Users\\wilop\\Dropbox\\MPDI\\2026\\Auditing Explainability-corto\\auditoria\\06_reports\\stage_reports\\stage_04_openai_full_normalization_report.md",
+    "C:\\Users\\wilop\\Dropbox\\MPDI\\2026\\Auditing Explainability-corto\\auditoria\\07_logs\\manifests\\stage_04_openai_full_normalization_manifest.json"
+  ]
+}

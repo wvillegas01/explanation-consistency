@@ -1,0 +1,10 @@
+﻿model_id,metric,groups,kruskal_H,p_value
+gpt-5.4,ECS,open_ended_reasoning; structured_decision_support; text_classification,41.66097878359267,8.983248256693624e-10
+gpt-5.4,EVR,open_ended_reasoning; structured_decision_support; text_classification,44.35124186704388,2.3401850242090027e-10
+gpt-5.4,EDI,open_ended_reasoning; structured_decision_support; text_classification,34.65653182461108,2.981465122813186e-08
+gpt-5.4-mini,ECS,open_ended_reasoning; structured_decision_support; text_classification,57.0467779349363,4.096845312039436e-13
+gpt-5.4-mini,EVR,open_ended_reasoning; structured_decision_support; text_classification,55.36793776520511,9.484295508184174e-13
+gpt-5.4-mini,EDI,open_ended_reasoning; structured_decision_support; text_classification,52.91472701555864,3.233799003425947e-12
+all_models,ECS,open_ended_reasoning; structured_decision_support; text_classification,100.26653375977264,1.688102582554382e-22
+all_models,EVR,open_ended_reasoning; structured_decision_support; text_classification,100.68040156361053,1.372551290819713e-22
+all_models,EDI,open_ended_reasoning; structured_decision_support; text_classification,88.18070220326933,7.108923019180704e-20

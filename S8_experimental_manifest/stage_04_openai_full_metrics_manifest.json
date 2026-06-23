@@ -1,0 +1,13 @@
+{
+  "stage": "04_openai_full_metrics",
+  "timestamp": "2026-06-16T14:51:39+00:00",
+  "normalized_rows": 1000,
+  "case_metric_rows": 200,
+  "outputs": [
+    "C:\\Users\\wilop\\Dropbox\\MPDI\\2026\\Auditing Explainability-corto\\auditoria\\04_metrics\\metric_tables\\openai_multimodel\\openai_multimodel_full_case_metrics_v1.csv",
+    "C:\\Users\\wilop\\Dropbox\\MPDI\\2026\\Auditing Explainability-corto\\auditoria\\04_metrics\\metric_tables\\openai_multimodel\\openai_multimodel_full_aggregate_metrics_v1.csv",
+    "C:\\Users\\wilop\\Dropbox\\MPDI\\2026\\Auditing Explainability-corto\\auditoria\\05_figures_tables\\tables\\table_openai_multimodel_full_comparison_v1.csv",
+    "C:\\Users\\wilop\\Dropbox\\MPDI\\2026\\Auditing Explainability-corto\\auditoria\\06_reports\\stage_reports\\stage_04_openai_full_metrics_report.md",
+    "C:\\Users\\wilop\\Dropbox\\MPDI\\2026\\Auditing Explainability-corto\\auditoria\\07_logs\\manifests\\stage_04_openai_full_metrics_manifest.json"
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "package": "peerj_reproducibility_package",
+  "created_utc": "2026-06-23T02:19:29.655936+00:00",
+  "root": "C:\\Users\\wilop\\Dropbox\\MPDI\\2026\\Auditing Explainability-corto\\auditoria\\10_peerj_reproducibility_package",
+  "file_count": 34,
+  "files": [
+    {
+      "path": "S1_prompt_benchmark/explanation_consistency_prompt_benchmark_v1.csv",
+      "bytes": 184278,
+      "sha256": "702ac67c11350a600437049d3378b667fa0128cfca33e41c18840ec8899eab43"
+    },
+    {
+      "path": "S1_prompt_benchmark/explanation_consistency_prompt_benchmark_v1.jsonl",
+      "bytes": 199938,
+      "sha256": "d1d8b7666e49c95b53d0da7b70e214cd9d1b3dbdf793f9c1bec65926e666722f"
+    },
+    {
+      "path": "S1_prompt_benchmark/prompt_templates_v1.md",
+      "bytes": 682,
+      "sha256": "9e6c3186a46db179fcd574b8f55488f7e7752a01c7794031774d49e87f0e1715"
+    },
+    {
+      "path": "S2_normalized_model_outputs/openai_multimodel_full_normalized_outputs_v1.csv",
+      "bytes": 1735848,
+      "sha256": "21bbf4b93a6410feb94a0ff7cceda2e412372a5c86d6e2e328881a4042640dbb"
+    },
+    {
+      "path": "S3_case_level_metrics/openai_multimodel_full_case_metrics_v1.csv",
+      "bytes": 26789,
+      "sha256": "c070ee1b0a779b56be0527e66fb6120b6d023b5ce7a5045de1ea2ec3ac20676b"
+    },
+    {
+      "path": "S3_case_level_metrics/openai_multimodel_full_aggregate_metrics_v1.csv",
+      "bytes": 1007,
+      "sha256": "6fc1c51c93ea17b34745bf6c20d0971f16d75a8acfd41bb3b0564e2f91a72288"
+    },
+    {
+      "path": "S3_case_level_metrics/metric_definitions_v1.json",
+      "bytes": 805,
+      "sha256": "0cffce11efbb775ad74f34effb7d67aac1848b17dca468b16edeb5d853c58c01"
+    },
+    {
+      "path": "S4_figures_and_tables/figure_methodology_audit_pipeline.png",
+      "bytes": 71607,
+      "sha256": "63608b165dd4616231bb30be7511b10a53ba2d23a04ab26224d88efc93cdc91f"
+    },
+    {
+      "path": "S4_figures_and_tables/figure_1_consistency_variability_composite.png",
+      "bytes": 75771,
+      "sha256": "033390ee4325b9a6fa8593ed1f5c3fafecbdbac8a4fa906c9ed0b4c5d4d0f53c"
+    },
+    {
+      "path": "S4_figures_and_tables/figure_2_model_differences_composite.png",
+      "bytes": 70735,
+      "sha256": "e93b684f0e2fda5117e9677a10cc819840be41ffcee5ce8e25ab08a98532fc7a"
+    },
+    {
+      "path": "S4_figures_and_tables/table_1_benchmark_and_execution_design.csv",
+      "bytes": 224,
+      "sha256": "6a2a2e3b3ba6bd609eb9334783ed539c332653d6d5bea7b4c6cdf49a8461c972"
+    },
+    {
+      "path": "S4_figures_and_tables/table_2_consistency_results_and_model_differences.csv",
+      "bytes": 432,
+      "sha256": "b453e436783ce393f6f1a163541352dc848467e69fcf20fc6d7fdedeabfad296"
+    },
+    {
+      "path": "S5_representative_cases/representative_cases_consistency_drift_v1.csv",
+      "bytes": 5992,
+      "sha256": "bca91d7deb80ee7d97b6a330604742885514e0d96cbc7d917a2ca4e2d807803f"
+    },
+    {
+      "path": "S5_representative_cases/stage_06_representative_cases_and_inferential_analysis.md",
+      "bytes": 1632,
+      "sha256": "4e48b4eac1cbffceea6e610c45b7938f67dd7a1bc342edf3c17cd4cdc887ae6e"
+    },
+    {
+      "path": "S6_statistical_analysis/descriptive_stats_ci95_v1.csv",
+      "bytes": 2552,
+      "sha256": "1a0c0770093fa4290ceb5979a238bd28e9ce9823cb85aee3c4d5004b534b51a5"
+    },
+    {
+      "path": "S6_statistical_analysis/kruskal_task_family_tests_v1.csv",
+      "bytes": 1187,
+      "sha256": "64fdde2c6e3a6a4a2e25c392b94bf3256b0e508ba2c454af5e6092ffc28c1f7d"
+    },
+    {
+      "path": "S6_statistical_analysis/wilcoxon_model_comparisons_v1.csv",
+      "bytes": 1374,
+      "sha256": "f8ff36ce582e281ace1eb54e8de303a015499e3d95584ffce56b64493852aab0"
+    },
+    {
+      "path": "S6_statistical_analysis/mannwhitney_cliffs_delta_v1.csv",
+      "bytes": 1101,
+      "sha256": "6c09a1d8d2e7b75c2a57fae365f2bc07a0ff8ab84112f99dd5f9f0a8cae393e1"
+    },
+    {
+      "path": "S7_reproducibility_scripts/stage_01_prompt_benchmark/build_stage_01_prompt_benchmark.py",
+      "bytes": 13736,
+      "sha256": "4733202d033e3d4c810c134c0381dfa63f984123d29a1d3b277fbc9bbbdeb48f"
+    },
+    {
+      "path": "S7_reproducibility_scripts/stage_02_model_execution/prepare_stage_02_openai_multimodel.py",
+      "bytes": 6077,
+      "sha256": "be8acfe37f7b376e6f83f83141b3a36026143b4b2ab28e1f1f604da4887c82ad"
+    },
+    {
+      "path": "S7_reproducibility_scripts/stage_02_model_execution/execute_stage_02_openai_multimodel.py",
+      "bytes": 6504,
+      "sha256": "4e0f718cc708f39fd1344e584be67f88948a44bcfe78655ab0cc37b3ea9e1e5c"
+    },
+    {
+      "path": "S7_reproducibility_scripts/stage_02_model_execution/normalize_stage_04_openai_full_outputs.py",
+      "bytes": 4550,
+      "sha256": "dbcb1b87211eca36594c0b6ee5bb43557bd96622e37a825f18dffda858c4c81d"
+    },
+    {
+      "path": "S7_reproducibility_scripts/stage_03_metrics/compute_stage_04_openai_full_metrics.py",
+      "bytes": 5178,
+      "sha256": "ff4dcd0bb5b42f5a39407f8533efb39e17b8c7fbd9208d399d757ed484fa820a"
+    },
+    {
+      "path": "S7_reproducibility_scripts/stage_04_inferential_analysis/run_representative_cases_and_stats.py",
+      "bytes": 18258,
+      "sha256": "8fc2cdfb3ce58adb123e96df2e5903b92abed9b6b8a4a7c0907af84f76d56b84"
+    },
+    {
+      "path": "S8_experimental_manifest/stage_01_prompt_benchmark_manifest.json",
+      "bytes": 1304,
+      "sha256": "85c5acf9e8e5bf2fb797c8d99efd0ae5be2473798959f99e79d72a4cf05028f2"
+    },
+    {
+      "path": "S8_experimental_manifest/stage_04_openai_full_normalization_manifest.json",
+      "bytes": 683,
+      "sha256": "1156350daf508c8cfc8f43be44fe08035ffd60bb1c4983efee1e09c3e5e4cd39"
+    },
+    {
+      "path": "S8_experimental_manifest/stage_04_openai_full_metrics_manifest.json",
+      "bytes": 994,
+      "sha256": "866ee98c8eefa1108af6abe2d098f58047a8e365293a54cd5dbd7c5e3c364ecc"
+    },
+    {
+      "path": "references/explanation_consistency_published_verified_ieee_v5.bib",
+      "bytes": 10729,
+      "sha256": "26fae2b8eaceb437968789037674e6cf722b7bc0472c6748a838cc66f8e1a3bc"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 246,
+      "sha256": "4d1e8da723cdf22b2cfa6d59687d82eff29092f8677454f5d89e2711a13449d7"
+    },
+    {
+      "path": "README.md",
+      "bytes": 7852,
+      "sha256": "da7069de71269c96229a6ec787c81216c4e246ef092c33b758a3794b5b413a05"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 43,
+      "sha256": "a6006c5c79d592a80703aec671fdd25ac314947dc4ab8de96f53781a9ff42469"
+    },
+    {
+      "path": "DATA_LICENSES.md",
+      "bytes": 1252,
+      "sha256": "63c1d18d551aabedd9b600aa726ee16c0f406ce6b834a33afe41f63108986a11"
+    },
+    {
+      "path": "CITATION.cff",
+      "bytes": 384,
+      "sha256": "1d3a0dbd6d24a5a0edb6cfd8bc48fcfca989e15c6de36f10fa0e047e0c521f1c"
+    },
+    {
+      "path": "AI_USE_DISCLOSURE.md",
+      "bytes": 1080,
+      "sha256": "a97b0be839845ce26e97a2c6327d997487b7af9433a1cd2e238947d132672a87"
+    }
+  ],
+  "missing_sources": []
+}

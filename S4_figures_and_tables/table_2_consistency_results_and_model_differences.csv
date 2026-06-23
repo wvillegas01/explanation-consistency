@@ -1,0 +1,4 @@
+Task family,gpt-5.4 ECS,gpt-5.4-mini ECS,Delta ECS (mini - full),gpt-5.4 EVR,gpt-5.4-mini EVR,Delta EVR (mini - full),gpt-5.4 EDI,gpt-5.4-mini EDI,Delta EDI (mini - full)
+Open-ended reasoning,0.481,0.4203,-0.0607,0.5177,0.5862,0.0685,0.514,0.572,0.058
+Text classification,0.6315,0.6608,0.0293,0.3613,0.3417,-0.0196,0.3771,0.3405,-0.0366
+Structured decision support,0.4574,0.4139,-0.0435,0.545,0.5827,0.0378,0.5395,0.5849,0.0454

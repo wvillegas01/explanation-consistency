@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "Task-Specific Audit of Explanation Consistency in Large Language Models Using Repeated Queries"
+message: "If you use this reproducibility package, please cite the associated manuscript."
+type: dataset
+date-released: 2026-06-22
+keywords:
+  - explanation consistency
+  - large language models
+  - repeated-query auditing
+  - explainable AI
+  - semantic drift

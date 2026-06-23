@@ -1,0 +1,24 @@
+{
+  "stage": "01_prompt_benchmark",
+  "timestamp": "2026-06-15T10:31:11",
+  "n_cases": 100,
+  "task_family_counts": {
+    "open_ended_reasoning": 35,
+    "text_classification": 35,
+    "structured_decision_support": 30
+  },
+  "source_counts": {
+    "BBC": 35,
+    "OULAD": 30,
+    "UltraChat": 18,
+    "WildChat-1M": 17
+  },
+  "outputs": [
+    "C:\\Users\\wilop\\Dropbox\\MPDI\\2026\\Auditing Explainability-corto\\auditoria\\02_prompt_benchmark\\final\\explanation_consistency_prompt_benchmark_v1.csv",
+    "C:\\Users\\wilop\\Dropbox\\MPDI\\2026\\Auditing Explainability-corto\\auditoria\\02_prompt_benchmark\\final\\explanation_consistency_prompt_benchmark_v1.json",
+    "C:\\Users\\wilop\\Dropbox\\MPDI\\2026\\Auditing Explainability-corto\\auditoria\\02_prompt_benchmark\\final\\explanation_consistency_prompt_benchmark_v1.jsonl",
+    "C:\\Users\\wilop\\Dropbox\\MPDI\\2026\\Auditing Explainability-corto\\auditoria\\02_prompt_benchmark\\templates\\prompt_templates_v1.md",
+    "C:\\Users\\wilop\\Dropbox\\MPDI\\2026\\Auditing Explainability-corto\\auditoria\\06_reports\\stage_reports\\stage_01_prompt_benchmark_report.md",
+    "C:\\Users\\wilop\\Dropbox\\MPDI\\2026\\Auditing Explainability-corto\\auditoria\\07_logs\\manifests\\stage_01_prompt_benchmark_manifest.json"
+  ]
+}

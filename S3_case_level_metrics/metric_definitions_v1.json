@@ -1,0 +1,17 @@
+{
+  "ECS": {
+    "name": "Explanation Consistency Score",
+    "definition": "Mean pairwise cosine similarity among repeated explanations for the same case and model.",
+    "range": "0 to 1 in normal use; higher means more consistent explanations."
+  },
+  "EVR": {
+    "name": "Explanation Variability Rate",
+    "definition": "Mean consecutive explanation distance, computed as 1 - cosine similarity between adjacent repetitions.",
+    "range": "0 to 1 in normal use; lower means less variability."
+  },
+  "EDI": {
+    "name": "Explanation Drift Index",
+    "definition": "Mean distance from the first repetition, computed as 1 - cosine similarity between repetition 1 and later repetitions.",
+    "range": "0 to 1 in normal use; lower means less drift from the initial explanation."
+  }
+}

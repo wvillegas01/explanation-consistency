@@ -1,0 +1,4 @@
+Task family,Source datasets,Prompts,Models,Repetitions,Responses
+Open-ended reasoning,UltraChat (18); WildChat-1M (17),35,2,5,350
+Text classification,BBC (35),35,2,5,350
+Structured decision support,OULAD (30),30,2,5,300
