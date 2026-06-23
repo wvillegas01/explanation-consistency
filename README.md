@@ -155,11 +155,11 @@ Suggested manuscript text:
 
 Suggested manuscript/acknowledgement text:
 
-> Generative AI tools were used as editorial and programming support during manuscript preparation and reproducibility packaging. The tools assisted with drafting, grammar revision, code organization, and documentation. All scientific decisions, experimental design choices, data interpretation, statistical analyses, and final manuscript content were reviewed and approved by the authors.
+> Generative AI tools were used as editorial and programming support during manuscript preparation and reproducibility packaging. The tools assisted grammar revision and documentation. All scientific decisions, experimental design choices, data interpretation, statistical analyses, and final manuscript content were reviewed and approved by the authors.
 
 Suggested confidential note for PeerJ staff:
 
-> AI-assisted tools were used to support language editing, code organization, documentation drafting, and reproducibility-package preparation. The tools included OpenAI ChatGPT/Codex through the OpenAI platform (https://openai.com/). The authors reviewed and validated all generated text, code, analyses, and interpretations. AI tools were not treated as authors and did not make independent scientific decisions.
+> AI-assisted tools were used to support language editing and the preparation of reproducibility packages. The tools included OpenAI ChatGPT through the OpenAI platform (https://openai.com/). The authors reviewed and validated all code, analyses, and interpretations. AI tools were not treated as authors and did not make independent scientific decisions.
 
 ## Citations
 
