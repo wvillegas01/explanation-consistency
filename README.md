@@ -19,7 +19,6 @@ S5_representative_cases/      High-consistency, intermediate, and high-drift cas
 S6_statistical_analysis/      Inferential statistics, effect sizes, and confidence intervals
 S7_reproducibility_scripts/   Python scripts used across experimental stages
 S8_experimental_manifest/     Machine-readable run manifests
-references/                   BibTeX bibliography used in the manuscript
 ```
 
 ## Dataset Information
@@ -167,7 +166,7 @@ If using this repository, cite the associated manuscript:
 
 > Task-Specific Audit of Explanation Consistency in Large Language Models Using Repeated Queries.
 
-The manuscript bibliography is provided in `references/explanation_consistency_published_verified_ieee_v5.bib`.
+The manuscript bibliography is maintained with the article files and is not part of this reproducibility repository.
 
 ## License and Reuse
 

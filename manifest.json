@@ -2,7 +2,7 @@
   "package": "peerj_reproducibility_package",
   "created_utc": "2026-06-23T02:19:29.655936+00:00",
   "root": "C:\\Users\\wilop\\Dropbox\\MPDI\\2026\\Auditing Explainability-corto\\auditoria\\10_peerj_reproducibility_package",
-  "file_count": 34,
+  "file_count": 33,
   "files": [
     {
       "path": "S1_prompt_benchmark/explanation_consistency_prompt_benchmark_v1.csv",
@@ -138,11 +138,6 @@
       "path": "S8_experimental_manifest/stage_04_openai_full_metrics_manifest.json",
       "bytes": 994,
       "sha256": "866ee98c8eefa1108af6abe2d098f58047a8e365293a54cd5dbd7c5e3c364ecc"
-    },
-    {
-      "path": "references/explanation_consistency_published_verified_ieee_v5.bib",
-      "bytes": 10729,
-      "sha256": "26fae2b8eaceb437968789037674e6cf722b7bc0472c6748a838cc66f8e1a3bc"
     },
     {
       "path": ".gitignore",
